@@ -5,6 +5,6 @@
 #include <unistd.h>
 
 int _printf(const char *format, ...);
-int count_digits(int num)
+int count_digits(int num);
 
 #endif
